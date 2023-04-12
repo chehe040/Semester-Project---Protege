@@ -1,2 +1,2 @@
 # Semester-Project---Protege
-Building a MERN stack chat application. 
+In the process of building a MERN stack chat application. 
